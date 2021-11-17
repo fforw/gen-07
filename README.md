@@ -1,3 +1,3 @@
-# Simple Starter
+# gen-07
 
-Simple JS build starter for simple, client-only demos.
+Fixed palette polar-coordinate generative art. Uses an rtree to ~~prevent~~ minimize collisions.
